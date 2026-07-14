@@ -1,0 +1,17 @@
+# --- Telegram & Bot Frameworks ---
+kurigram
+TgCrypto
+
+# --- Asynchronous & Networking ---
+aiohttp==3.9.5
+requests
+
+# --- Database & Utilities ---
+motor
+
+# --- Web Framework (Keep Alive) ---
+Flask==2.3.3
+gunicorn==21.2.0
+Jinja2==3.1.2
+werkzeug==2.3.7
+itsdangerous==2.1.2
